@@ -1,7 +1,13 @@
-echo "# ML_2024" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MlekoZjad/ML_2024.git
-git push -u origin main
+## Case 1
+
+Dane dotyczące oszustw na Ethereum
+Kolumna FLAG - okresla czy coś jest oszustwem (1) czy nie (0)
+
+Przeprowadź klasyfikację oszustw (na podstawie danych case1); stwórz 3 osobne klasyfikatory (albo 3 różne modele, albo ten sam model z różnymi hiperparametrami) wybierz najlepszy i uzasadnij wybór.
+W skład rozwiązania powinno wchodzić:
+
+    przygotowanie danych (sprawdzenie braków, standaryzacja)
+    redukcja wymiarów
+    zbilansowanie częściowe próbki
+    wybór modelu 
+
