@@ -3,16 +3,17 @@
  * **Podaj liczbę filmów Sci-Fi**
         <br>
         `980`
-      
-    * **Pokaż rozkład ocen komedii**
+  ***    
+ * **Pokaż rozkład ocen komedii**
       <br>
      ![obraz](https://github.com/kkarolina71/ML_2024/assets/58952087/2935848a-3215-4f6a-81ae-8f33c6b51087)
-
-    * **Podaj średnią ocen wszystkich filmów akcji oraz 3 filmy najwyżej ocenianych**
+***
+ * **Podaj średnią ocen wszystkich filmów akcji oraz 3 filmy najwyżej ocenianych**
       <br>
       *Średnia ocen wszystkich filmów akcji: 3.45*
 
-         ***Najwyżej oceniane 3 filmy*** 
+
+   ***Najwyżej oceniane 3 filmy*** 
    
 |             Title              | Bayesian Average |
 |--------------------------------|------------------|
@@ -29,7 +30,7 @@
 | Star Wars: Episode IV - A New Hope (1977) | 4.16 |
 | Star Wars: Episode V - The Empire Strikes Back (1980) | 4.13 |
 
-
+***
 **2. System rekomendacyjny**
 
    * **Zbuduj system na podstawie algorytmu SVD oraz kNNwithMeans**
