@@ -34,7 +34,15 @@
 **2. System rekomendacyjny**
 
    * **Zbuduj system na podstawie algorytmu SVD oraz kNNwithMeans**
-   * **Czym różni się algorytm kNN with means od standardowego kNN?**
+   * **Czym różni się algorytm kNN with means od standardowego kNN?**<br>
+
+        **Standardowy kNN:** Standardowy algorytm kNN klasyfikuje nowy punkt danych na podstawie etykiety klasy większościowej jego k najbliższych sąsiadów w szkoleniowym zbiorze danych. Wykorzystuje metrykę odległości do pomiaru podobieństwa między nowym punktem danych a istniejącymi punktami danych. Wartość k jest hiperparametrem, który możemy wybrać na podstawie charakterystyki danych i danego problemu
+        
+        **kNN ze średnimi:** Jest to odmiana algorytmu kNN często używanego w filtrowaniu kolaboracyjnym w systemach rekomendacji. Kluczową różnicą jest to, że uwzględnia on średnią ocenę każdego użytkownika (lub elementu) podczas dokonywania prognozy. Pomaga to skorygować użytkowników, którzy zawsze wystawiają wysokie lub niskie oceny. Na przykład, jeśli użytkownik ma tendencję do surowego oceniania filmów, 4-gwiazdkowa ocena od niego może być równoważna 5-gwiazdkowej ocenie od bardziej łagodnego użytkownika. Odejmując średnią ocenę użytkownika przed dokonaniem prognozy, a następnie dodając ją z powrotem, algorytm kNN ze średnimi może tworzyć dokładniejsze rekomendacje.
+        
+        **Podsumowując** , podczas gdy oba algorytmy opierają się na koncepcji znajdowania "sąsiadów" w danych, standardowy algorytm kNN jest zwykle używany do zadań klasyfikacji lub regresji, podczas gdy kNN ze średnimi jest często używany w systemach rekomendacji w celu uwzględnienia stronniczości użytkownika. 
+
+
    * **Wykorzystaj metodę hiperparametryzacji GridSearch do wyboru liczby sąsiadów od 2-6** <br>
      Hiperparametryzacja wskazała na 6 sąsiadów.
    * **W ocenie metod wykorzystaj walidację krzyżową** <br>
