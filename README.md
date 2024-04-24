@@ -35,7 +35,52 @@
 
    * **Zbuduj system na podstawie algorytmu SVD oraz kNNwithMeans**
    * **Czym różni się algorytm kNN with means od standardowego kNN?**
-   * **Wykorzystaj metodę hiperparametryzacji GridSearch do wyboru liczby sąsiadów od 2-6**
-   * **W ocenie metod wykorzystaj walidację krzyżową**
+   * **Wykorzystaj metodę hiperparametryzacji GridSearch do wyboru liczby sąsiadów od 2-6** <br>
+     Hiperparametryzacja wskazała na 6 sąsiadów.
+   * **W ocenie metod wykorzystaj walidację krzyżową** <br>
+     Algorytm `SVD` uzyskał lepsze wyniki.
 
 **3. Podaj rekomendacje po obejrzeniu filmu: Jumanji  oraz Flint**
+
+
+### SVD
+
+| Rekomendacje dla Jumanji (1995) (Adventure, Children, Fantasy): | |
+|---|---|
+| Back to the Future Part III (1990) | Adventure, Comedy, Sci-Fi, Western |
+| Broken Arrow (1996) | Action, Adventure, Thriller |
+| Saint Ralph (2004) | Comedy, Drama |
+| Back to the Future Part II (1989) | Adventure, Comedy, Sci-Fi |
+| Mrs. Doubtfire (1993) | Comedy, Drama |
+
+
+| Rekomendacje dla Flint (2017) (Drama): | |
+|---|---|
+| My Scientology Movie (2016) | Documentary |
+| Three Burials of Melquiades Estrada, The (2006) | Adventure, Crime, Drama |
+| Peter Pan (2003) | Action, Adventure, Children, Fantasy |
+| Bubba Ho-tep (2002) | Comedy, Horror |
+| Stepfather, The (1987) | Horror, Thriller |
+
+***
+### kNNWithMeans
+
+| Rekomendacje dla Jumanji (1995) (Adventure, Children, Fantasy): 	 | |
+|---|---|
+| Mrs. Doubtfire (1993) | Comedy, Drama |
+| Mask, The (1994) | Action, Comedy, Crime, Fantasy |
+| Back to the Future (1985) | Adventure, Comedy, Sci-Fi |
+| Liar Liar (1997) | Comedy |
+| True Lies (1994) | Action, Adventure, Comedy, Romance, Thriller |
+| Casper (1995) | Adventure, Children |
+
+
+
+| Rekomendacje dla Flint (2017) (Drama): | |
+|---|---|
+| Toy Story (1995) | Adventure, Animation, Children, Comedy, Fantasy |
+| Grumpier Old Men (1995) | Comedy, Romance |
+| Heat (1995) | Action, Crime, Thriller |
+| Seven (a.k.a. Se7en) (1995) | Mystery, Thriller |
+| Usual Suspects, The (1995) | Crime, Mystery, Thriller |
+| From Dusk Till Dawn (1996) | Action, Comedy, Horror, Thriller |
