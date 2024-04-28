@@ -55,20 +55,23 @@
 
 | Rekomendacje dla Jumanji (1995) (Adventure, Children, Fantasy): | |
 |---|---|
-| Back to the Future Part III (1990) | Adventure, Comedy, Sci-Fi, Western |
-| Broken Arrow (1996) | Action, Adventure, Thriller |
-| Saint Ralph (2004) | Comedy, Drama |
-| Back to the Future Part II (1989) | Adventure, Comedy, Sci-Fi |
+| Casper (1995) | Adventure, Children |
 | Mrs. Doubtfire (1993) | Comedy, Drama |
+| Santa Clause, The (1994) | Comedy, Drama, Fantasy |
+| Hudsucker Proxy, The (1994) | Comedy |
+| Mask, The (1994) | Action, Comedy, Crime, Fantasy |
+| Mr. Holland's Opus (1995) | Drama |
 
 
 | Rekomendacje dla Flint (2017) (Drama): | |
 |---|---|
-| My Scientology Movie (2016) | Documentary |
-| Three Burials of Melquiades Estrada, The (2006) | Adventure, Crime, Drama |
-| Peter Pan (2003) | Action, Adventure, Children, Fantasy |
-| Bubba Ho-tep (2002) | Comedy, Horror |
-| Stepfather, The (1987) | Horror, Thriller |
+| Fly, The (1986)| Drama, Horror, Sci-Fi, Thriller |
+| Glory Daze (1995) | Drama |
+| Extreme Days (2001) | Action, Adventure, Comedy, Drama |
+| Fur: An Imaginary Portrait of Diane Arbus (2006) | Drama, Fantasy, Romance |
+| Twilight Saga: Eclipse, The (2010) | Fantasy, Romance, Thriller, IMAX |
+| Phantasm III: Lord of the Dead (1994) | Horror |
+
 
 ***
 ### kNNWithMeans
