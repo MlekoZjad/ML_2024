@@ -10,7 +10,8 @@
 ***
  * **Podaj średnią ocen wszystkich filmów akcji oraz 3 filmy najwyżej ocenianych**
       <br>
-      *Średnia ocen wszystkich filmów akcji: 3.45*
+      *Średnia ocen wszystkich filmów akcji: 3.45* <br>
+      *Średnia ocen wszystkich filmów akcji (bez duplikatów): 3.09*
 
 
    ***Najwyżej oceniane 3 filmy*** 
